@@ -1,5 +1,5 @@
 {
-  "contributors": "...",
+  "contributors": "https://api.github.com/repos/chadwcarlson/cla/contents/.contributors",
   "message": "Some message",
   "label": "some-label",
   "recheckComment": "recheckComment"
