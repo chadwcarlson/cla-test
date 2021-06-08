@@ -1,5 +1,5 @@
 {
-  "contributors": ["platformsh-devrel"],
+  "contributors": "https://api.github.com/repos/chadwcarlson/cla/contents/.contributors",
   "message": "Hi {{usersWithoutCLA}}!\n\nThanks for the contribution!\n\nWe require contributors to sign our Contributor License Agreement, and we don't have your username on file.\n\nPlease [read through the CLA](https://github.com/chadwcarlson/cla) and [open a pull request](https://github.com/chadwcarlson/cla/edit/master/.contributors) to add your name to the `.contibutors` file there.\n\nWhen you're finished, feel free to ping @chadwcarlson to get yourself added.",
   "label": "cla-signed",
   "recheckComment": "Roger that, rechecking."
